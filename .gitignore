@@ -1,2 +1,5 @@
 mac/build/
 .DS_Store
+win/build/
+win/bin/
+win/obj/
